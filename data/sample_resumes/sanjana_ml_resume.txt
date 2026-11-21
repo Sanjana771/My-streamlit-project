@@ -1,0 +1,36 @@
+SANJANA B R
+USN: 4VV25CI414 | Email: sanjana.aiml@vvce.ac.in | Phone: +91 98451 23456
+Department of Computer Science & Engineering (AI & ML)
+Vidyavardhaka College of Engineering (VVCE), Mysuru
+
+CAREER OBJECTIVE
+Aspiring Machine Learning Engineer with strong foundational skills in Artificial Intelligence, Python programming, and predictive data modeling. Seeking an entry-level role to solve complex real-world challenges using ML and NLP algorithms.
+
+EDUCATION
+- B.E. in Artificial Intelligence & Machine Learning (2023 - 2027)
+  Vidyavardhaka College of Engineering, Mysuru | CGPA: 8.6 / 10.0
+- Pre-University Education (PCMC)
+  Marimallappa's PU College, Mysuru | Percentage: 92.4%
+
+TECHNICAL SKILLS
+- Programming Languages: Python, C, C++, Core Java
+- AI & Data Science: Machine Learning, Scikit-learn, Pandas, NumPy, Matplotlib, Data Analysis, Exploratory Data Analysis
+- Databases & Querying: SQL, MySQL, SQLite
+- Web Technologies: HTML, CSS
+- Developer Tools: Git, GitHub, VS Code, Jupyter Notebook
+- Core Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms, DBMS
+
+ACADEMIC PROJECTS
+1. AI-Powered Placement Readiness & Skill Gap Analyzer (Current Mini-Project)
+   - Extracted resume text using NLP and mapped skills against O*NET/ESCO taxonomies.
+   - Designed TF-IDF and Cosine Similarity engine to compute match percentage with live job postings.
+   - Built Streamlit dashboard featuring skill gap visualizer and readiness predictor.
+
+2. Heart Disease Prediction System
+   - Implemented Logistic Regression, Decision Tree, and Random Forest on Cleveland Heart Disease dataset.
+   - Achieved 87.5% classification accuracy with cross-validation and hyperparameter tuning.
+
+INTERNSHIPS & CERTIFICATIONS
+- Python for Data Science and Machine Learning Bootcamp (Udemy Certified)
+- Foundations of Machine Learning by Stanford Online (Coursera)
+- Member, VVCE AI & ML Student Association (AIMLSA)

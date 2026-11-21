@@ -1,0 +1,62 @@
+{
+    "best_model_name": "Logistic Regression",
+    "metrics": {
+        "Logistic Regression": {
+            "accuracy": 98.33,
+            "precision": 98.28,
+            "recall": 100.0,
+            "f1_score": 99.13,
+            "confusion_matrix": [
+                [
+                    8,
+                    4
+                ],
+                [
+                    0,
+                    228
+                ]
+            ]
+        },
+        "Decision Tree": {
+            "accuracy": 97.08,
+            "precision": 97.84,
+            "recall": 99.12,
+            "f1_score": 98.47,
+            "confusion_matrix": [
+                [
+                    7,
+                    5
+                ],
+                [
+                    2,
+                    226
+                ]
+            ]
+        },
+        "Random Forest": {
+            "accuracy": 97.08,
+            "precision": 97.02,
+            "recall": 100.0,
+            "f1_score": 98.49,
+            "confusion_matrix": [
+                [
+                    5,
+                    7
+                ],
+                [
+                    0,
+                    228
+                ]
+            ]
+        }
+    },
+    "feature_names": [
+        "skill_match_pct",
+        "tfidf_sim_pct",
+        "cgpa",
+        "projects_count",
+        "internships_count",
+        "total_skills_count",
+        "certifications_count"
+    ]
+}

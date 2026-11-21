@@ -1,0 +1,33 @@
+NAMITH N
+USN: 4VV25CI409 | Email: namith.aiml@vvce.ac.in | Phone: +91 97412 87654
+Department of Computer Science & Engineering (AI & ML)
+Vidyavardhaka College of Engineering (VVCE), Mysuru
+
+CAREER OBJECTIVE
+Detail-oriented Data Analyst student proficient in SQL, Power BI, Python, and statistical modeling. Passionate about transforming complex raw datasets into interactive visual dashboards and actionable business strategies.
+
+EDUCATION
+- B.E. in Artificial Intelligence & Machine Learning (2023 - 2027)
+  Vidyavardhaka College of Engineering, Mysuru | CGPA: 8.2 / 10.0
+- Pre-University Education
+  Sadvidya Composite PU College, Mysuru | Percentage: 89.6%
+
+TECHNICAL SKILLS
+- Business Intelligence & Analytics: Power BI, Tableau, Microsoft Excel, Advanced Excel, Data Analysis, Data Visualization, Statistics
+- Programming & Scripting: Python, SQL, MySQL, PostgreSQL, C
+- Data Libraries: Pandas, NumPy, Matplotlib, Seaborn
+- Core CS: DBMS, Database Management Systems, Computer Networks
+- Version Control: Git, GitHub
+
+KEY PROJECTS
+1. E-Commerce Sales Performance Dashboard
+   - Extracted and transformed over 100,000 transaction records using SQL queries and stored procedures.
+   - Designed dynamic executive dashboard in Power BI tracking Monthly Recurring Revenue and customer churn.
+
+2. Student Academic Performance Analyzer
+   - Leveraged Python and Pandas to analyze examination patterns and predict semester GPA trends.
+   - Built interactive visualizations with Seaborn and Matplotlib.
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate (Coursera)
+- Advanced SQL for Data Scientists (LinkedIn Learning)

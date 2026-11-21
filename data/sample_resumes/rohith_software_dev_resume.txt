@@ -1,0 +1,33 @@
+ROHITH S
+USN: 4VV25CI412 | Email: rohith.aiml@vvce.ac.in | Phone: +91 96115 34210
+Department of Computer Science & Engineering (AI & ML)
+Vidyavardhaka College of Engineering (VVCE), Mysuru
+
+CAREER OBJECTIVE
+Enthusiastic Software Developer with rigorous foundation in Data Structures, Algorithms, Object-Oriented Programming, and full-stack web applications. Seeking to deliver high-quality, high-throughput software solutions.
+
+EDUCATION
+- B.E. in Artificial Intelligence & Machine Learning (2023 - 2027)
+  Vidyavardhaka College of Engineering, Mysuru | CGPA: 8.4 / 10.0
+- Pre-University Education
+  Vijaya Vittala PU College, Mysuru | Percentage: 91.0%
+
+TECHNICAL SKILLS
+- Programming Languages: Java, Python, C++, C, JavaScript
+- Frameworks & Web Tech: HTML, CSS, React.js, Node.js, Express.js, RESTful APIs
+- Databases: MySQL, MongoDB, SQLite
+- Core Computer Science: Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, Computer Networks, System Design
+- Tools & DevOps: Git, GitHub, Docker, Linux, Postman
+
+KEY PROJECTS
+1. Campus Placement Management Web Application
+   - Built full-stack portal using React frontend and Node.js REST API with MySQL backend.
+   - Implemented JWT-based role authentication for students, company HRs, and placement officers.
+
+2. Distributed File Storage Prototype
+   - Developed multi-threaded socket communication program in Java demonstrating synchronization and IPC.
+
+ACHIEVEMENTS & CERTIFICATIONS
+- Solved 250+ algorithmic problems on LeetCode and GeeksforGeeks
+- Java Certified Associate Developer (Oracle)
+- Finalist in VVCE Internal Hackathon 2025
